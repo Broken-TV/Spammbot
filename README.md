@@ -11,7 +11,4 @@
 ————————————————————————————————————————✯
 ➥Um pyautogui zu Installieren gehe in Windows Powershell und gib  "pip install pyautogui" ein.
 ——————————————————————————————————————————————————————————————————————————————————————————————✯
-➥colorama um colorama zu installieren gehe in Windows Powershell und gebe "pip install colorama" ein. :)
-—————————————————————————————————————————————————————————————————————————————————————————————————————✯
-➥Jetzt musst du nur noch auf die Python datei Klicken. :)
-—————————————————————————————————————————————————————————✯
+➥colorama um colorama zu installieren gehe in Windows Powershell und gebe "pip install colorama" ein.
